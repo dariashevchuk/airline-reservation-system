@@ -1,0 +1,11 @@
+0 passengers on Flight ID: 1
+0 passengers on Flight ID: 2
+Reservation: Passenger Alice booked a seat on Flight ID: 1
+Reservation: Passenger Bob booked a seat on Flight ID: 2
+Reservation: Passenger darka booked a seat on Flight ID: 1234
+Reservation: Passenger chupa booked a seat on Flight ID: 1234
+Reservation: Passenger darka booked a seat on Flight ID: 1234
+Reservation: Passenger darka booked a seat on Flight ID: 1234
+Reservation: Passenger darka booked a seat on Flight ID: 1234
+Reservation: Passenger Chupa booked a seat on Flight ID: 1234
+Reservation: Passenger oleg booked a seat on Flight ID: 1234
